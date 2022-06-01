@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
   <title>
     Patrick Everett
   </title>
@@ -13,12 +13,17 @@
 <div class="header">
   Let's vibe
 </div>
-<img src="dive.png" alt="diving" width="500" height="333">
-<div class="yeet">
+<img id="diving" src="images/dive.png" alt="diving" width="500" height="333">
+<div id="yeet" class="yeet">
   Example of vibing
 </div>
+<p id="demo">A Paragraph.</p>
+<script src="js/myscripts.js"></script>
+<button onclick="document.getElementById('diving').src='images/scuba.png'">Cartoon mode</button>
+<button onclick="document.getElementById('diving').src='images/dive.png'">Real life mode</button>
+<button type="button" onclick="myFunction()">Try it</button>
 <div class="yeet">
-  Copyright 2021
+  Copyright 2022
 </div>
 </body>
 </html>
