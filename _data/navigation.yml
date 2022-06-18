@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /home/
+  - title: "Projects"
+    url: /projects/
+  - title: "SCUBA"
+    url: /scuba/
+  - title: "Professional"
+    url: /professional/
+  - title: "Hobbies"
+    url: /hobbies/
+  - title: "About"
+    url: /about/
