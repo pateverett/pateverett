@@ -18,15 +18,15 @@ feature_row:
   - image_path: assets/images/el_rey.jpg
     alt: "El Rey"
     title: "El Rey"
-    excerpt: "Diving the El Rey in San Diego, 2022."
+    excerpt: "El Rey - San Diego, CA - 2022."
   - image_path: /assets/images/islamorada.jpg
     alt: "Islamorada"
     title: "Islamorada"
-    excerpt: "Diving near Islamorada, FL, 2021."
+    excerpt: "Islamorada, FL - 2021."
   - image_path: /assets/images/makena.jpg
     alt: "Makena"
     title: "Makena"
-    excerpt: "Diving at Makena Landing, HI, 2021."
+    excerpt: "Makena Landing, HI - 2021."
 ---
 
 {% include feature_row id="intro" type="center" %}
