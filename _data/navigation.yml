@@ -1,13 +1,24 @@
 main:
   - title: "Home"
-    url: /home/
-  - title: "Projects"
-    url: /projects/
+    url: /
   - title: "SCUBA"
     url: /scuba/
   - title: "Professional"
     url: /professional/
   - title: "Hobbies"
     url: /hobbies/
+  - title: "Projects"
+    url: /projects/
   - title: "About"
     url: /about/
+dive-log:
+  - title: "Philippines"
+    children:
+      - title: "Day 1"
+        url: /blog/scuba/philippines/day-1
+      - title: "Day 2"
+        url: /blog/scuba/philippines/day-2
+      - title: "Day 3"
+        url: /blog/scuba/philippines/day-3
+      - title: "Day N"
+        url: /blog/scuba/philippines/day-N
