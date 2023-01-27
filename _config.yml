@@ -12,8 +12,8 @@ search: false
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Outputting
 permalink: /:categories/:title/
@@ -47,15 +47,14 @@ plugins:
 
 author:
   name: "Patrick Everett"
-  avatar: "/assets/images/bio-photo.jpg"
-  # bio: "Attacking this day with Enthusiasm Unknown to Mankind."
+  avatar: "/assets/images/bio-photo.png"
   bio: " "
   location: San Diego, CA
   email: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:patrick9everett@email.com"
+      url: "mailto:patrick9everett@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://patrickeverett.com"
