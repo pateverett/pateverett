@@ -8,20 +8,12 @@ tags:
   - scuba
 author_profile: false
 permalink: /scuba/2023/coronado_islands
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
-I took a Presidents' Day trip to the Coronado Islands of Mexico with [Waterhorse Charters](https://www.waterhorsecharters.com) of San Diego.
+I took a Presidents' Day trip to the Coronado Islands of Mexico with [Waterhorse Charters](https://www.waterhorsecharters.com) of San Diego. Dives were at Lobster Shack and Three Fingers.
 
-![](/assets/images/scuba/coronado_islands/garibaldi.png)
-
-<br>
-
-![](/assets/images/scuba/coronado_islands/shell.png)
-
-<br>
-
-![](/assets/images/scuba/coronado_islands/urchin.png)
-
-Dive 1 Location: Lobster Shack
-
-Dive 2 Location: Three Fingers
+{% include gallery filename_list="garibaldi.png,shell.png,urchin.png" folder="scuba/2023/coronado_islands/" %}

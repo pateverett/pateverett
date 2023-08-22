@@ -1,10 +1,10 @@
 ---
-permalink: /projects/
+# permalink: /projects/
 title: "Projects"
 # layout: splash
 ---
 
-This page serves as a running of my personal projects.
+This page will serve as a running of my personal projects.
 
 - Simple Arduino projects
 - Rebreather
