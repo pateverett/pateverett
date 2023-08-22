@@ -21,7 +21,7 @@ Thesis: [*Investigation of velocity gradient as driving force of flow pulsation 
 
 2022-Present
 
-* Leading reactor design and analysis across neutronics, thermal-hydraulics, fuel performance, and transient analysis topic areas
+* Leading reactor design and analysis across neutronics, thermal-hydraulics, fuel performance, and transient analysis disciplines
 * Developing computational suite for multiphysics analysis of advanced reactor performance
 * Managing engineering teams to support design, analysis, and licensing of advanced nuclear technologies
 
@@ -31,7 +31,7 @@ Thesis: [*Investigation of velocity gradient as driving force of flow pulsation 
 2020-2022
 
 * Led thermal-hydraulic design, analysis, and experimental programs for liquid metal cooled nuclear reactors
-* Principal Investigator (PI) of [experimental and computational project with Argonne National Laboratory](https://www.energy.gov/ne/articles/argonne-adds-new-testing-capability-liquid-metal-fast-reactors) to improve characterization of key liquid metal thermal-hydraulic phenomena
+* Principal investigator (PI) of [experimental and computational project with Argonne National Laboratory](https://www.energy.gov/ne/articles/argonne-adds-new-testing-capability-liquid-metal-fast-reactors) to improve characterization of key liquid metal thermal-hydraulic phenomena, funded under a [DOE GAIN voucher](https://gain.inl.gov/SiteAssets/2021VoucherAbstracts-2ndRound/NE-21-26096_Oklo_ExperimentalAndSystems-levelValidation.pdf)
 
 ### Reactor Engineer
 **Oklo Inc.** (Sunnyvale, CA)
@@ -77,11 +77,11 @@ Thesis: [*Investigation of velocity gradient as driving force of flow pulsation 
 
 ## Invited Speaker
 
-* [ARPA-E Transmutation Workshop](https://www.gen-4.org/gif/jcms/c_207375/gen-iv-demos-sfr-technical-session-technical-session), hosted by ARPA-E in *Washington, D.C.* (2023)
-* [Metallic Fuels Workshop](https://www.gen-4.org/gif/jcms/c_207375/gen-iv-demos-sfr-technical-session-technical-session), hosted by the Advanced Fuels Campaign in *Idaho Falls, ID* (2023)
-* [Gen-IV Demos: Sodium Fast Reactor Technical Session](https://www.gen-4.org/gif/jcms/c_207375/gen-iv-demos-sfr-technical-session-technical-session) at the Generation IV International Forum in *Toronto, Canada* (2022)
-* [Machine Learning Applications in Thermal Hydraulics](https://www.ans.org/meetings/wm2022/session/view-1475/) at the American Nuclear Society Winter Meeting in *Anaheim, CA* (2022)
-* [Artificial Intelligence and Machine Learning Technologies for Advanced Reactors Virtual Workshop](https://gain.inl.gov/SiteAssets/2021-AIMLWorkshop/Agenda/AIML_WorkshopFinalAgenda%2006Oct21.pdf), hosted by GAIN, EPRI, and NEI (2021)
+* [**Transmutation of Used Nuclear Fuel Workshop**](https://arpa-e.energy.gov/events/transmutation-used-nuclear-fuel-workshop), hosted by ARPA-E in *Washington, D.C.* (2023)
+* **Metallic Fuels R&D Workshop**, hosted by the Advanced Fuels Campaign in *Idaho Falls, ID* (2023)
+* [**Gen-IV Demos: Sodium Fast Reactor Technical Session**](https://www.gen-4.org/gif/jcms/c_207375/gen-iv-demos-sfr-technical-session-technical-session) at the Generation IV International Forum in *Toronto, Canada* (2022)
+* [**Machine Learning Applications in Thermal Hydraulics**](https://www.ans.org/meetings/wm2022/session/view-1475/) at the American Nuclear Society Winter Meeting in *Anaheim, CA* (2022)
+* [**Artificial Intelligence and Machine Learning Technologies for Advanced Reactors Virtual Workshop**](https://gain.inl.gov/SiteAssets/2021-AIMLWorkshop/Agenda/AIML_WorkshopFinalAgenda%2006Oct21.pdf), hosted by GAIN, EPRI, and NEI (2021)
 
 ## Honors and Awards
 

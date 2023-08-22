@@ -47,6 +47,6 @@ rey-islamorada-makena:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="philippines-cozumel-coronado" %}
+{% include feature_row_noLM id="philippines-cozumel-coronado" %}
 
 {% include feature_row id="rey-islamorada-makena" %}

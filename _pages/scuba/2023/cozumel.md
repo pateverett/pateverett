@@ -37,3 +37,5 @@ Cozumel is known for its drift diving - strong currents generally don't go well 
 {% include gallery filename_list="cuda.jpg,boxfish.jpg,lobster.jpg" folder="scuba/2023/cozumel/" %}
 
 {% include gallery filename_list="crab.jpg,nudibranchs.jpg" folder="scuba/2023/cozumel/" %}
+
+{% include video id="42TGjM2PHWs" provider="youtube" %}
