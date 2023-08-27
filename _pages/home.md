@@ -10,7 +10,7 @@ three_images:
     url: /resume/
     alt: "Resume"
     title: "Resume"
-  - image_path: /assets/images/about.png
+  - image_path: /assets/images/about.jpg
     url: /about/
     alt: "About"
     title: "About"

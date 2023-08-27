@@ -7,7 +7,7 @@ I'm Patrick and welcome to my site! This site is a fun side project to serve as 
 
 I grew up in Ann Arbor, MI and am a die-hard Michigan fan. I try to go to a couple games at the Big House every year.
 
-![Big House 2022](/assets/images/michigan.png)
+![Big House 2022](/assets/images/michigan.jpg)
 
 I work as a [Nuclear Engineer](/resume/) at [Oklo](https://www.oklo.com "Oklo") and take great pride in being able to work towards bringing clean energy to the world in a safe, sustainable, and prosperous manner. I believe that nuclear fission is humanity's greatest invention, and I'm dedicated towards bringing the promise of the Atomic Era to the modern world.
 
