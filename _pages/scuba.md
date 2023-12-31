@@ -25,11 +25,11 @@ philippines-cozumel-coronado:
     alt: Cozumel
     title: Cozumel
     excerpt: Cozumel, Mexico (2023)
-  - image_path: /assets/thumbs/scuba/2023/coronado_islands/garibaldi_square.jpg
-    url: /scuba/2023/coronado_islands
-    alt: Coronado Islands
-    title: Coronado Islands
-    excerpt: Coronado Islands, Mexico (2023)
+  - image_path: /assets/thumbs/scuba/2023/islamorada/crab_square.jpg
+    url: /scuba/2023/islamorada
+    alt: Islamorada
+    title: Islamorada
+    excerpt: Islamorada, Florida (2023)
 rey-islamorada-makena:
   - image_path: assets/images/scuba/el_rey.jpg
     alt: "El Rey"
