@@ -1,0 +1,45 @@
+<style>
+  .image-portrait {
+      width: 100%;
+      display: grid;
+      grid-auto-columns: minmax(0, 1fr);
+      grid-auto-flow: column;
+      justify-content: center;
+      padding: 2px;
+  }
+
+  .box {
+      flex-basis: auto;
+      width: 100%;
+      padding: 5px;
+  }
+
+  .img-portrait {
+      width: 100%;
+      height: 800px;
+      object-fit: cover;
+      transform: scale(1);
+      transition: all 0.3s ease-in-out;
+  }
+
+  /* &:hover {
+    transform: scale(1.05);
+  } */
+
+  img-gallery:hover {
+    transform: scale(1.5);
+  }
+
+</style>
+
+<div class ="image-portrait">
+  {% assign filenames = include.filename_list | split: "," %}
+  {% assign alts = include.alt_list | split: "," %}
+  {% for name in filenames %}
+      <div class="box">
+      <a href="{{ site.imagesurl }}{{ include.folder }}{{ name }}">
+        <img src="{{ site.thumbsurl }}{{ include.folder }}{{ name }}" alt="{{ alts }}"  class="img-portrait" />
+      </a>
+      </div>
+  {% endfor %}
+</div>
