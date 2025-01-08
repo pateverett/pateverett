@@ -15,6 +15,11 @@ excerpt: |
 intro:
   - excerpt: "I learned to dive in 2017, and I've enjoyed the challenge of growing as a diver and underwater photographer since then. I have a long bucket list of diving destinations still to explore. Some of my favorite SCUBA experiences are below."
 row-1:
+  - image_path: /assets/landing/scuba/raja_scorpionfish.jpg
+    url: /scuba/2025/raja
+    alt: Raja Ampat (Indonesia)
+    title: Raja Ampat (Indonesia)
+    excerpt: Raja Ampat (2025)
   - image_path: /assets/landing/scuba/tubbataha_octopus.jpg
     url: /scuba/2024/tubbataha
     alt: Tubbataha Reef (Philippines)
@@ -25,12 +30,12 @@ row-1:
     alt: Great Barrier Reef (Australia)
     title: Great Barrier Reef (Australia)
     excerpt: Great Barrier Reef, Australia (2024)
+row-2:
   - image_path: /assets/landing/scuba/cozumel_eel.jpg
     url: /scuba/2023/cozumel
     alt: Cozumel (Mexico)
     title: Cozumel (Mexico)
     excerpt: Cozumel, Mexico (2023)
-row-2:
   - image_path: /assets/landing/scuba/visayas_clownfish.jpg
     url: /scuba/2023/philippines
     alt: Visayas (Philippines)
@@ -41,10 +46,6 @@ row-2:
     alt: Islamorada (Florida)
     title: Islamorada (Florida)
     excerpt: Islamorada, Florida (2023)
-  - image_path: /assets/landing/scuba/san_diego_el_rey.jpg
-    alt: El Rey
-    title: El Rey (California)
-    excerpt: San Diego, CA (2022)
 ---
 
 {% include feature_row id="intro" type="center" %}

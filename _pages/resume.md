@@ -16,10 +16,18 @@ Thesis: [*Investigation of velocity gradient as driving force of flow pulsation 
 
 ## Experience
 
+### Senior Director of Reactor Engineering
+**Oklo Inc.** (Santa Clara, CA)
+
+2024-Present
+
+* Leading the development of advanced reactor design and analysis
+* Managing engineering teams to support design, analysis, and licensing of advanced nuclear technologies
+
 ### Deputy Senior Director of Product
 **Oklo Inc.** (Santa Clara, CA)
 
-2022-Present
+2022-2024
 
 * Leading reactor design and analysis across neutronics, thermal-hydraulics, fuel performance, and transient analysis disciplines
 * Developing computational suite for multiphysics analysis of advanced reactor performance
