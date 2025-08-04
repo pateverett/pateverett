@@ -16,13 +16,23 @@ Thesis: [*Investigation of velocity gradient as driving force of flow pulsation 
 
 ## Experience
 
+### Vice President of Reactor Engineering
+**Oklo Inc.** (Santa Clara, CA)
+
+2025-Present
+
+* Leading the development of Aurora reactor core design
+* Developing and implementing advanced nuclear fuels roadmap, R&D, and fuel qualification program
+* Overseeing division of 40+ FTEs
+
 ### Senior Director of Reactor Engineering
 **Oklo Inc.** (Santa Clara, CA)
 
-2024-Present
+2024-2025
 
-* Leading the development of advanced reactor design and analysis
-* Managing engineering teams to support design, analysis, and licensing of advanced nuclear technologies
+* Led the development of advanced reactor design and analysis
+* Managed engineering teams to support design, analysis, and licensing of advanced nuclear technologies
+* Oversaw engineering teams of 30+ FTEs
 
 ### Deputy Senior Director of Product
 **Oklo Inc.** (Santa Clara, CA)
@@ -85,6 +95,7 @@ Thesis: [*Investigation of velocity gradient as driving force of flow pulsation 
 
 ## Invited Speaker
 
+* "Aurora Fast Reactor Fuel Development," presented at the **Third Annual Metallic Fuels R&D Workshop**, hosted by the Advanced Fuels Campaign in Idaho Falls, ID (2025)
 * [**Transmutation of Used Nuclear Fuel Workshop**](https://arpa-e.energy.gov/events/transmutation-used-nuclear-fuel-workshop), hosted by ARPA-E in *Washington, D.C.* (2023)
 * **Metallic Fuels R&D Workshop**, hosted by the Advanced Fuels Campaign in *Idaho Falls, ID* (2023)
 * [**Gen-IV Demos: Sodium Fast Reactor Technical Session**](https://www.gen-4.org/gif/jcms/c_207375/gen-iv-demos-sfr-technical-session-technical-session) at the Generation IV International Forum in *Toronto, Canada* (2022)

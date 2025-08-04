@@ -15,6 +15,11 @@ excerpt: |
 intro:
   - excerpt: "I learned to dive in 2017, and I've enjoyed the challenge of growing as a diver and underwater photographer since then. I have a long bucket list of diving destinations still to explore. Some of my favorite SCUBA experiences are below."
 row-1:
+  - image_path: /assets/landing/scuba/lembeh_nudi.jpg
+    url: /scuba/2025/lembeh
+    alt: Lembeh (Indonesia)
+    title: Lembeh (Indonesia)
+    excerpt: Lembeh (2025)
   - image_path: /assets/landing/scuba/raja_scorpionfish.jpg
     url: /scuba/2025/raja
     alt: Raja Ampat (Indonesia)
@@ -25,11 +30,6 @@ row-1:
     alt: Tubbataha Reef (Philippines)
     title: Tubbataha Reef (Philippines)
     excerpt: Tubbataha Reef (2024)
-  - image_path: /assets/landing/scuba/australia_orange_fish.jpg
-    url: /scuba/2024/australia
-    alt: Great Barrier Reef (Australia)
-    title: Great Barrier Reef (Australia)
-    excerpt: Great Barrier Reef, Australia (2024)
 row-2:
   - image_path: /assets/landing/scuba/cozumel_eel.jpg
     url: /scuba/2023/cozumel
