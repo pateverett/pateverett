@@ -14,6 +14,18 @@ excerpt: |
     -Jacques Cousteau
 intro:
   - excerpt: "I learned to dive in 2017, and I've enjoyed the challenge of growing as a diver and underwater photographer since then. I have a long bucket list of diving destinations still to explore. Some of my favorite SCUBA experiences are below."
+
+dive_map:
+  - excerpt: |
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+      <link rel="stylesheet" href="/assets/css/dive-map.css" />
+      <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+      <div class="dive-map-container">
+        <h2 class="dive-map-title">Where I've Been Diving</h2>
+        <p class="dive-map-subtitle">Tap a marker to see details</p>
+        <div id="dive-map"></div>
+      </div>
+      <script src="/assets/js/dive-map.js"></script>
 row-1:
   - image_path: /assets/landing/scuba/lembeh_nudi.jpg
     url: /scuba/2025/lembeh
@@ -49,6 +61,8 @@ row-2:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="dive_map" type="center" %}
 
 {% include feature_row_noLM id="row-1" %}
 
