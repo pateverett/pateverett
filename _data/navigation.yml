@@ -3,6 +3,8 @@ main:
     url: /
   - title: "SCUBA"
     url: /scuba/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Hobbies"
     url: /hobbies/
   - title: "Resume"
