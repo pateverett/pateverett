@@ -19,13 +19,13 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 <script>
-const diveSiteData = [
+window.diveSiteData = [
 {% for row in site.data.dive_sites %}{% assign lat = row.lat | plus: 0.0 %}{% assign lng = row.lng | plus: 0.0 %}{% if lat != 0 and lng != 0 %}
   { country: {{ row.country | jsonify }}, lat: {{ row.lat }}, lng: {{ row.lng }}, location: {{ row.location | jsonify }}, site: {{ row.site_name | jsonify }} },
 {% endif %}{% endfor %}
 ];
 
-const diveTripLinks = {
+window.diveTripLinks = {
 {% assign trip_pages = site.pages | where: "scuba_trip", true %}{% for tp in trip_pages %}{% if tp.dive_locations %}{% for loc in tp.dive_locations %}  {{ loc | jsonify }}: {{ tp.url | jsonify }},
 {% endfor %}{% endif %}{% endfor %}
 };
