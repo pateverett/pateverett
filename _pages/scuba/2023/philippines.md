@@ -10,6 +10,16 @@ tags:
   - philippines
 author_profile: false
 permalink: /scuba/2023/philippines
+scuba_trip: true
+card_title: "Visayas (Philippines)"
+card_image: /assets/landing/scuba/visayas_clownfish.jpg
+dive_locations:
+  - "Padre Burgos"
+  - "Napantaw"
+  - "Anda"
+  - "Kalanggaman Island"
+  - "Kimud Shoal"
+  - "Gato Island"
 ---
 
 I took a trip aboard the M-Y Infiniti Liveaboard to explore the Visayas.

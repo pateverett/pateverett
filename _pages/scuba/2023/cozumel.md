@@ -11,6 +11,11 @@ tags:
 author_profile: false
 permalink: /scuba/2023/cozumel
 layout: splash
+scuba_trip: true
+card_title: "Cozumel (Mexico)"
+card_image: /assets/landing/scuba/cozumel_eel.jpg
+dive_locations:
+  - "Cozumel"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

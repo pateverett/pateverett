@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I'm Patrick and welcome to my site! This site is a fun side project to serve as inspiration as I learn web development and progress my skills as an underwater photographer.
+I'm Patrick and welcome to my site!
 
 I grew up in Ann Arbor, MI and am a die-hard Michigan fan. I try to go to a couple games at the Big House every year.
 
@@ -20,5 +20,3 @@ In my free time, my favorite things to do are [SCUBA diving](/scuba/) and cookin
 
 ![Geared up](/assets/images/scuba/2023/philippines/geared_up.png)
 *Gearing up to dive off the Infiniti liveaboard in the Philippines*
-
-I hope you enjoy my site!

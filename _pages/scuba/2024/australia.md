@@ -11,6 +11,12 @@ tags:
 author_profile: false
 permalink: /scuba/2024/australia
 layout: splash
+scuba_trip: true
+card_title: "Great Barrier Reef (Australia)"
+card_image: /assets/landing/scuba/australia_orange_fish.jpg
+dive_locations:
+  - "Flynn Reef"
+  - "Milln Reef"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

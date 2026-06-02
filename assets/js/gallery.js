@@ -1,5 +1,21 @@
 // Gallery photos data
 const galleryPhotos = [
+  // 2026 - Palau
+  { src: "scuba/2026/palau/palau-1.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-2.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-3.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-4.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-5.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-6.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-7.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-8.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-9.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-10.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-11.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-12.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-13.jpg", location: "Palau", year: "2026", trip: "palau" },
+  { src: "scuba/2026/palau/palau-14.jpg", location: "Palau", year: "2026", trip: "palau" },
+
   // 2025 - Lembeh
   { src: "scuba/2025/lembeh/1090054.jpg", location: "Lembeh", year: "2025", trip: "lembeh" },
   { src: "scuba/2025/lembeh/1090137.jpg", location: "Lembeh", year: "2025", trip: "lembeh" },

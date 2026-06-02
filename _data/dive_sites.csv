@@ -1,7 +1,4 @@
-MacDive v2.16.3 CSV Export
-Units: Imperial
-
-Country, Date, GPS Latitude, GPS Longitude, Location, Site Name
+country,date,lat,lng,location,site_name
 "Palau","2026-05-27 13:17:09","7.34081","134.45087","Palau","Chandelier Cave"
 "Palau","2026-05-27 11:18:58","7.32013","134.44458","Palau","Hafa Dai"
 "Palau","2026-05-27 09:06:03","7.11613","134.36713","Palau","Ngerchong"

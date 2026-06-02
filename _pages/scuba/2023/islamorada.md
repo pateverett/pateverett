@@ -11,6 +11,11 @@ tags:
 author_profile: false
 permalink: /scuba/2023/islamorada
 layout: splash
+scuba_trip: true
+card_title: "Islamorada (Florida)"
+card_image: /assets/landing/scuba/islamorada_crab.jpg
+dive_locations:
+  - "Islamorada, FL"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

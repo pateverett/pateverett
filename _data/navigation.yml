@@ -5,8 +5,6 @@ main:
     url: /scuba/
   - title: "Gallery"
     url: /gallery/
-  - title: "Hobbies"
-    url: /hobbies/
   - title: "Resume"
     url: /resume/
   - title: "About"

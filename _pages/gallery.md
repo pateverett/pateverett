@@ -15,21 +15,22 @@ gallery_content:
 
       <div class="gallery-stats">
         <div class="gallery-stat">
-          <div class="gallery-stat-number" id="photo-count">97</div>
+          <div class="gallery-stat-number" id="photo-count">111</div>
           <div class="gallery-stat-label">Photos</div>
         </div>
         <div class="gallery-stat">
-          <div class="gallery-stat-number">8</div>
+          <div class="gallery-stat-number">9</div>
           <div class="gallery-stat-label">Trips</div>
         </div>
         <div class="gallery-stat">
-          <div class="gallery-stat-number">6</div>
+          <div class="gallery-stat-number">7</div>
           <div class="gallery-stat-label">Countries</div>
         </div>
       </div>
 
       <div class="gallery-filters">
         <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="2026">2026</button>
         <button class="filter-btn" data-filter="2025">2025</button>
         <button class="filter-btn" data-filter="2024">2024</button>
         <button class="filter-btn" data-filter="2023">2023</button>

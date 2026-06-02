@@ -11,6 +11,11 @@ tags:
 author_profile: false
 permalink: /scuba/2025/lembeh
 layout: splash
+scuba_trip: true
+card_title: "Lembeh (Indonesia)"
+card_image: /assets/landing/scuba/lembeh_nudi.jpg
+dive_locations:
+  - "Lembeh"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

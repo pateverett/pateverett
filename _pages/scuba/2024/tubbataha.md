@@ -11,6 +11,11 @@ tags:
 author_profile: false
 permalink: /scuba/2024/tubbataha
 layout: splash
+scuba_trip: true
+card_title: "Tubbataha Reef (Philippines)"
+card_image: /assets/landing/scuba/tubbataha_octopus.jpg
+dive_locations:
+  - "Tubbataha Reef"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

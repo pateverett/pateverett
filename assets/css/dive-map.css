@@ -135,10 +135,24 @@
   white-space: nowrap;
 }
 
+.dive-popup-country {
+  color: #888;
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
 .dive-popup-count {
   color: #0088b3;
   font-size: 13px;
+  margin-bottom: 6px;
+}
+
+.dive-popup-sites {
+  color: #555;
+  font-size: 11px;
   margin-bottom: 8px;
+  line-height: 1.4;
+  max-width: 200px;
 }
 
 .dive-popup-link {
